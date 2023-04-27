@@ -5,3 +5,4 @@ pink
 green
 purple
 these are the colors of my guitar
+gray
